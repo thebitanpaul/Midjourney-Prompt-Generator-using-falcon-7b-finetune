@@ -6,7 +6,7 @@ This Midjourney prompt generator makes digital creators life easier by generatin
 
 ## Use Midjouney Prompt Generator
 
-You can make a copy of this collab notebook to use my Midjourney Prompt Generator: https://drive.google.com/file/d/1gyeQZGuu18LoX3rZKIUBTrDhhXM5TBfZ/view?usp=sharing
+You can make a copy of this collab notebook to use my Midjourney Prompt Generator here: https://drive.google.com/file/d/1gyeQZGuu18LoX3rZKIUBTrDhhXM5TBfZ/view?usp=sharing
 
 
     
